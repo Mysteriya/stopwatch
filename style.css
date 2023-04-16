@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.timeBlock{
+    text-align: center;
+    justify-content: center;
+    
+    position: relative;
+    top: 5rem;
+}
+.btn-block{
+   margin-top: 40px;
+}
+#button_Start, #button-Stop, #button-Reset{
+    color: aliceblue;
+    background: rgb(210, 49, 49);
+
+    border: none;
+
+    margin-top: 30px;
+    
+    padding-left: 30px;
+    padding-right: 30px;
+    padding: 20px;
+}
+.timeBlock p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
